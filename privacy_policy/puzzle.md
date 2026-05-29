@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated: 2026.02.06
+Last updated: 2026.05.29
 
 This game does not collect, store, use, or share any personal data from users.
 
