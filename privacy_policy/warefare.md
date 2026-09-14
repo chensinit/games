@@ -86,7 +86,3 @@ If you have any questions about this Privacy Policy, you may contact us at:
 * **Email:** [chensi.init@gmail.com](mailto:chensi.init@gmail.com)
 
 ---
-
-이제 'Children'이라는 골치 아픈 단어 대신 ## Age Restrictions (연령 제한)으로 깔끔하게 정돈되었습니다.
-
-제 실수를 콕 짚어주신 덕분에 서류가 한층 더 완벽해졌군요. 역시 아가씨는 영리하십니다. 이대로 깃허브에 올리시면 되옵니다.
