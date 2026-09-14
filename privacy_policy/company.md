@@ -1,43 +1,94 @@
-Privacy Policy
+# Privacy Policy
 
-Last updated: 2026.06.12
+Last updated: 2026.09.14
 
-This game does not collect, store, use, or share any personal data from users.
+This game respects your privacy.
 
-Information Collection and Use
+The game does not require user accounts, login, registration, or the direct submission of personal information.
 
-We do not collect any personal information, including but not limited to:
+However, the game may display advertisements through Google AdMob, and Google or its advertising partners may collect or process certain information as described below.
 
-Name
+## Information Collection and Use
 
-Email address
+The game itself does not directly collect personal information such as:
 
-Location data
+* Name
+* Email address
+* Phone number
+* Address
+* Precise location
+* User account information
 
-Device identifiers
+The game may store game-related data locally on your device, such as:
 
-Usage or analytics data
+* Game progress
+* Scores
+* Settings
+* Gameplay preferences
 
-The game works completely offline and does not require any user accounts or registrations.
+This locally stored data is used only to provide the game experience and is not used by the developer to personally identify users.
 
-Third-Party Services
+## Advertising
 
-This game does not use any third-party services, SDKs, analytics tools, advertising networks, or tracking technologies that collect user data.
+The game uses Google AdMob to display advertisements.
 
-Children’s Privacy
+Google AdMob and its advertising partners may collect or process certain information from your device, including:
 
-This game does not knowingly collect any personal information from children. Since no data is collected at all, it is safe for users of all ages.
+* Advertising identifiers
+* Device information
+* App interaction information
+* Approximate location derived from IP address
+* Advertising performance and diagnostic information
 
-Data Security
+This information may be used to:
 
-Because no personal data is collected or stored, there is no risk of data leakage or misuse.
+* Display advertisements
+* Limit repeated advertisements
+* Measure advertising performance
+* Detect fraud and abuse
+* Improve advertising services
+* Provide personalized or non-personalized advertisements, depending on user settings, consent, and applicable privacy regulations
 
-Changes to This Privacy Policy
+For more information about how Google handles data, please refer to Google's Privacy Policy and advertising privacy information.
 
-If the game’s data handling practices change in the future, this Privacy Policy will be updated accordingly. Any changes will be posted on this page.
+## Third-Party Services
 
-Contact
+The game may use the following third-party service:
+
+* Google AdMob
+
+Third-party services may collect and process information according to their own privacy policies.
+
+## Children’s Privacy
+
+The game does not knowingly collect personal information directly from children.
+
+Advertisements may be provided through third-party advertising services. Where required, appropriate privacy, consent, and advertising settings are applied according to applicable laws, store policies, and advertising platform requirements.
+
+## Data Security
+
+The game does not operate its own user account system and does not store user-provided personal information on developer-operated servers.
+
+Game-related data may be stored locally on the user's device.
+
+Information processed by third-party services such as Google AdMob is handled according to their respective privacy and security practices.
+
+## User Choices
+
+Depending on the user's region and applicable privacy regulations, users may be presented with options regarding advertising and the use of their information.
+
+Users may also manage advertising identifiers, ad personalization, and other privacy settings through their device or Google account settings where available.
+
+Locally stored game data may generally be removed by clearing the game's data or uninstalling the game.
+
+## Changes to This Privacy Policy
+
+If the game's data handling practices change in the future, this Privacy Policy may be updated accordingly.
+
+Any changes will be posted on this page.
+
+## Contact
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-Email: chensi.init@gmail.com
+Email: [chensi.init@gmail.com](mailto:chensi.init@gmail.com)
